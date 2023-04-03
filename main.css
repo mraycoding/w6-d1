@@ -1,0 +1,51 @@
+.container {
+    background-color:blue
+}
+
+
+.inStock, .notInStock {
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Helvetica;
+    border: 2px solid black;
+    width:800px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 15px;
+    background-color: white;
+  }
+  
+  
+  body {
+    background-color: rgb(187, 186, 186);
+  }
+
+  h1 {
+    padding-left: 75px;
+    margin-left: 175px;
+  }
+
+
+
+  #clickMe {
+    background-color:white;
+    display: inline-block;
+    padding:10px;
+    font-family: Helvetica;
+    border-radius: 3px;
+    text-align: center;
+    margin-left:235px;
+    border: 2px solid black;
+  }
+  
+  #clickMe:hover {
+    cursor: pointer;
+  }
+  
+  
+  
+  
+  .darkMode {
+    background-color: rgb(46, 50, 51);
+    color: rgb(133, 123, 123);
+  }
